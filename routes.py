@@ -3,12 +3,12 @@ from flask import Flask, render_template
 app = Flask(__name__)
 
 
-@app.route('/theme')
+@app.route('/')
 def theme():
     return render_template('theme.html')
 
 
-@app.route('/')
+@app.route('/document')
 def document():
     return render_template('document.html')
 
