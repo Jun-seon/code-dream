@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f5650fa-dabd-49f1-94f4-8980cf324b1c" name="Default" comment="">
+    <list default="true" id="0f5650fa-dabd-49f1-94f4-8980cf324b1c" name="Default" comment="adding Procfile">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -519,7 +519,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502155740393</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding Procfile">
+      <created>1502156415088</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1502156415088</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -571,7 +578,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update little" />
     <MESSAGE value="adding requirements" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding requirements" />
+    <MESSAGE value="adding Procfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding Procfile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
